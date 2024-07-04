@@ -1,13 +1,16 @@
-.security-btn{
-    position:relative;
-    right:0;
-    min-width:95px;
-    color:#fff;
-    border:10px solid #205b8d;
-    -webkit-border-radius:3px;
-    -moz-border-radius:3px;
-    border-radius:43px;
-    background:#205b8d
+.security-btn {
+    position: relative;
+    right: 0;
+    min-width: 95px;
+    color: #fff;
+    border: 2px solid #205b8d; /* Reduced border for a sleeker look */
+    border-radius: 43px;
+    background: #205b8d;
+    padding: 10px 20px; 
+    font-size: 16px; 
+    text-align: center;
+    display: inline-block; /* Ensures button respects surrounding content */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
 }
 
 .login-status-header{
@@ -29,4 +32,13 @@
     -o-transition:all .5s ease;
     -moz-transition:all .5s ease;
     transition:all .5s ease
+}
+
+
+/* Ensure the button scales properly in responsive layouts */
+@media (max-width: 767px) {
+    .security-btn {
+        font-size: 14px; /* Slightly smaller font for better readability on small screens */
+        padding: 8px 16px; /* Adjust padding slightly for smaller screens */
+    }
 }

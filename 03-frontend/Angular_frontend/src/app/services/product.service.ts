@@ -4,17 +4,18 @@ import { Observable } from 'rxjs';
 import { Product } from '../common/product';
 import { map } from 'rxjs/operators';
 import { ProductCategory } from '../common/product-category';
+import { environment } from 'src/environments/environment';
 
 @Injectable({
   providedIn: 'root'
 })
 export class ProductService {
   
-  //private baseUrl = 'http://localhost:8080/api/products';
-  //private categoryUrl = 'http://localhost:8080/api/product-category';
+  private baseUrl = environment.backendApi + '/products';
+  private categoryUrl = environment.backendApi+ '/product-category';
 
-  private baseUrl = 'https://ecommerce-backend-deploy.herokuapp.com/api/products';
-  private categoryUrl = 'https://ecommerce-backend-deploy.herokuapp.com/api/product-category'; 
+  // private baseUrl = 'https://ecommerce-backend-deploy.herokuapp.com/api/products';
+  // private categoryUrl = 'https://ecommerce-backend-deploy.herokuapp.com/api/product-category'; 
 
   constructor(private httpClient: HttpClient) { }
 
@@ -37,18 +38,14 @@ export class ProductService {
   }
 
   getProductList(theCategoryId: number): Observable<Product[]>{
-
     //need to build URL based on category id
     const searchUrl = `${this.baseUrl}/search/findByCategoryId?id=${theCategoryId}`;
-
     return this.getProducts(searchUrl);
   }
 
   searchProducts(theKeyword: string): Observable<Product[]> {
-
      //need to build URL based on keyword
      const searchUrl = `${this.baseUrl}/search/findByNameContaining?name=${theKeyword}`;
-
      return this.getProducts(searchUrl);
   }
 

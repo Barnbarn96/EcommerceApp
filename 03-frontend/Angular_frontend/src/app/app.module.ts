@@ -42,7 +42,7 @@ const oktaConfig = Object.assign({
 
 const routes : Routes = [
   {path: 'order-history', component: OrderHistoryComponent, canActivate: [OktaAuthGuard] },
-  {path: 'members', component: MembersPageComponent, canActivate: [OktaAuthGuard] },
+  {path: 'members', component: MembersPageComponent, canActivate: [OktaAuthGuard]},
 
   {path: 'login/callback', component: OktaCallbackComponent},
   {path: 'login', component: LoginComponent},
@@ -51,7 +51,7 @@ const routes : Routes = [
   {path: 'cart-details', component: CartDetailsComponent},
   {path: 'products/:id', component: ProductDetailsComponent},
   {path: 'search/:keyword', component: ProductListComponent},
-  {path: 'category/:id', component: ProductListComponent},
+  {path: 'category/:id/:name', component: ProductListComponent},
   {path: 'category', component: ProductListComponent},
   {path: 'products', component: ProductListComponent},
   {path: '', redirectTo: '/products' , pathMatch: 'full'},

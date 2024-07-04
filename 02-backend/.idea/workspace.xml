@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,7 +22,178 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6021b85-e691-4968-9e04-4c93a7c7ccc5" name="Default Changelist" comment="" />
+    <list default="true" id="a6021b85-e691-4968-9e04-4c93a7c7ccc5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/SpringBoot_backend/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_backend/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_backend/src/main/java/com/luv2code/ecommerce/dto/PurchaseResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_backend/src/main/java/com/luv2code/ecommerce/dto/PurchaseResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_backend/src/main/java/com/luv2code/ecommerce/service/CheckoutService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_backend/src/main/java/com/luv2code/ecommerce/service/CheckoutService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_backend/src/main/java/com/luv2code/ecommerce/service/CheckoutServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_backend/src/main/java/com/luv2code/ecommerce/service/CheckoutServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringBoot_backend/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringBoot_backend/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/ajax-loader-processing-16.b7b6c1853fe1c245b9fa.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/ajax-loader-processing-24.96b57f321b4bbf28f519.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/app_70x70.d178ee16c387f11aefb4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/app_76x76.5f4dd5975e3739c85d55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/apple-app-store.8c4986ee4828b47d16f5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/apple_logo.e4188267ae1687378ed9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/checkbox-01.eae0329fe0b798560519.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/checkbox-01@2x.1294dd56f87237b78100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/checkbox-sign-in-widget.cca932606af9b72656aa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/checkbox-sign-in-widget@2x.c357e3c0ce3a6ad6d0b8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/checkmark.23e6c127646fca7b327a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/chosen-sprite.b6c637988eaf0e65d76f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/chosen-sprite@2x.ad5aa8a695c7b0e143f0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/customFactor@2x.b00a580dce45df928c04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/customFactor_38x38.2ade3d52e2df0b078a04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/customFactor_70x70.d46dffaf554a41b3a51f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/customFactor_ico@2x.a0057753339f2016ab7e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/default.2dc2af8dfe68ee7fe7d8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/default@2x.d3412fa0f246f0c590fc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/default_logo.80cfd19b8b651ff04906.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/desktop_70x70.2e384130b1fe25782358.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/desktop_76x76.ea9b5713736ea3997163.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/drop-menu-s-white.2a93edd743a71a22fd4d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/drop-menu-s.bc446bdd298aac3b2d58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/duo@2x.705cbf55ec60ff31660a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/duo_38x38.32489e91d3f8cdd60f25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/duo_70x70.e543304699d873e86066.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/duo_ico@2x.cb8f36a95e18bd89aa5c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/email@2x.88cb208046415dc2ae0c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/email_38x38.7fcfc5a64076ff68c4bc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/email_70x70.522204f54cd683206443.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/email_ico@2x.b75961facdad470983ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/error-01.c2bd40c8d1d6afa3f4ad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-brands-400.216edb96b562c79adc09.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-brands-400.329a95a9172fdb2cccb4.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-brands-400.89a52ae1d02b86d61439.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-brands-400.9e138496e8f1719c6ebf.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-brands-400.c1210e5ebe4344da5083.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-regular-400.1017bce89c72f95bcf8e.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-regular-400.19e27d348fefc21941e0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-regular-400.3672264812746c3c7225.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-regular-400.4079ae2d2a15d0689568.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-regular-400.68c5af1f48e2bfca1e57.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-solid-900.07c3313b24f7b1ca85ee.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-solid-900.13de59f1a36b6cb4bca0.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-solid-900.ada6e6df937f7e5e8b79.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-solid-900.c6ec080084769a6d8a34.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/fa-solid-900.efbd5d20e407bbf85f2b.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/facebook_logo.7d54eda8e5fe00e9ba3b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/google-play-store.1d8f7bc81e1b4193482d.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/googleAuth@2x.3950af05d77503af90dc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/googleAuth_38x38.b775d2ecea5d27df452d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/googleAuth_70x70.765dcdb00a2cd8e70a6f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/googleAuth_ico@2x.15099387ad8cba2f418a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/google_logo.0bd077ccc98413a2b611.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/hotpFactor@2x.99432825512f50549113.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/hotpFactor_38x38.5fc6675014623503531d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/hotpFactor_70x70.0e011e4cf3a242e8c215.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/hotpFactor_ico@2x.e86aee5e65953995401d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/linkedin_logo.4872c8617481bbfcedb4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/loader@1x.d322a7ce99c785c18f38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/main.8f89c6b27412354f23fd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/microsoft_logo.11adfe285febca02cf22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/montserrat-light-webfont.47314ef8b3f718bd6b25.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/montserrat-light-webfont.94b013df481681d3b9ba.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/montserrat-light-webfont.bced23520571bb9c6786.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/montserrat-light-webfont.d7f374f771a6cf745a5f.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/montserrat-regular-webfont.5623bc4fe19097d3a367.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/montserrat-regular-webfont.79ee020c048c261b0a8e.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/montserrat-regular-webfont.bc9d1c64cc1eb7fe21fc.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/montserrat-regular-webfont.e08993fa295c2e06ddad.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/okta-buttons-sprite-001.709317affd945eb60fbc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/oktaVerify@2x.edda6d9a079ac0f30a1d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/oktaVerify_38x38.0a794cc1d53037b4a6d4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/oktaVerify_70x70.edda6d9a079ac0f30a1d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/oktaVerify_authenticator.1cfb354fee52a6f4fb3e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/oktaVerify_authenticator@2x.c5f3965d331cd1c94fab.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/oktaVerify_ico@1x.dfba7fd621e352512497.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/oktaVerify_ico@2x.498544250d781cdfe0a9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/okticon.18ead8fda945421a9af7.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/okticon.415c41974fde3d0d67e5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/okticon.a812bc2c3773a792b40a.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/okticon.af5fd3a28c69172a32bf.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/onprem@2x.c192dfb38b1b18c6a51a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/onprem_38x38.e47ff4af6d208697049c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/onprem_70x70.dbfd3ac87c278d8b476f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/onprem_ico@2x.ae33b00913a302e915bb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/password@2x.b01bbab91dd15a7f7ef2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/password_38x38.43b45ae8787dcfca049e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/password_70x70.09a47f4aae614fcd173d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/password_ico@2x.65a4740c5de7f536eb36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/phone@2x.40b6e520d5390c8047f4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/phone_70x70.aa64c27db79006a6128a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/polyfills.5851e6ac6a8655461f26.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/question@2x.631cc812bf1df9cd3aad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/question_38x38.ae5ef466ceaf09f6c97d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/question_70x70.d23bbc46067bce71a0bc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/question_ico@2x.a77121c84a0a4c686a64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/radiobutton-01.06ca91686a22690197da.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/radiobutton-01@2x.2f10e12d6a124337f57b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/rsa@2x.b0e0779422d233d9452f.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/rsa_38x38.d5b9ed09fb232748c4e6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/rsa_70x70.622f327a8864f12935ba.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/rsa_ico@2x.f7b47a1c9e5db5f96b02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/runtime.7b63b9fd40098a2e8207.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/scanerror.8995946c217e44cdfd57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/sign-on-widget-spinner.4d69ec9a0b3a6f2272e5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/smartcard@2x.37be7d58ed3937d990e8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/smartcard_70x70.6cb161e6dd5840c07c42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/sms@2x.8bb5ff83aaf1493717dc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/sms_38x38.89e2b726e786cbeea4d4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/sms_70x70.85ac729aed92fa38b546.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/sms_ico@2x.7dde7e81e1bf64ab7ce8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/styles.d54248a9c57808a2a18e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/symantec@2x.740f055b64a6cb384a41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/symantec_38x38.9c6134c9b6468266db29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/symantec_70x70.701342a769603345ff6d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/symantec_ico@2x.3beb84a8562e8ac427b2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/tooltip_close.1974946bde03919ffb9e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/u2f@2x.18c70cabbe98b020c502.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/u2f_38x38.f0405fde0027a53d48c2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/u2f_70x70.544267236b71646db9d1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/u2f_bluetooth.64014f9ec6967e2e8ba5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/u2f_ico@2x.c1f7bddc6410a8077df1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/u2f_usb.a1709529eeac1fb1f4ee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/unknown-device.143a043ec4295deb8c3a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/unknown-device@2x.80ebed2dc1e3af322003.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/voicecall@2x.081039ec7343cc1a6b94.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/voicecall_38x38.077fa630d3c2e8d06b3b.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/voicecall_70x70.0b65e9dbb0ad141ef13d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/voicecall_ico@2x.f6c100ee1c7f7a850053.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/webauthn@2x.dda9f68e1e5be140a3e9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/webauthn_38x38.72e062760764048760dd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/webauthn_70x70.324d064c97e3e9248b2e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/webauthn_ico@2x.03be0ca93c3d24fcb799.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/windowsHello@2x.fa6a819322769f0f48c8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/windowsHello_38x38.982cd0464e5d08f10468.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/windowsHello_70x70.c21858437b63bf8737fa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/windowsHello_ico@2x.42e981601d2d7f2bacd1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/yubico@2x.9441ca48abc08fc2f394.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/yubico_38x38.3f7e15e7ef889a143eea.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/yubico_70x70.ca82ced50b21bb9747c5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/yubico_ico@2x.07c75cf25d55e2406d97.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/docs/yubikeyDemo.5ebed9d6de069129f535.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/login-status/login-status.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/login-status/login-status.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/login-status/login-status.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/login-status/login-status.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/product-category-menu/product-category-menu.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/product-category-menu/product-category-menu.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/product-list/product-list-grid.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/product-list/product-list-grid.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/product-list/product-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/components/product-list/product-list.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/config/my-app-config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/config/my-app-config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/auth-interceptor.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/auth-interceptor.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/cart.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/cart.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/checkout.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/checkout.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/luv2-shop-form.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/luv2-shop-form.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/order-history.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/order-history.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/product.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/app/services/product.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/environments/environment.prod.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/environments/environment.prod.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/environments/environment.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/environments/environment.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../03-frontend/Angular_frontend/src/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,15 +209,30 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="1vCx6OdMNypefRAX9YFURHZOImX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SpringBoot_backend" />
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/BARNABASSOHYIJIE/Desktop/ecommerce/EcommerceApp/02-backend"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-4caba194b151-107bc6b7" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

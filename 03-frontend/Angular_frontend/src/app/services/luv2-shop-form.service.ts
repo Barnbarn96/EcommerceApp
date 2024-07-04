@@ -4,17 +4,18 @@ import { Observable, of } from 'rxjs';
 import { map } from 'rxjs/operators';
 import { Country } from '../common/country';
 import { State } from '../common/state';
+import { environment } from 'src/environments/environment';
 
 @Injectable({
   providedIn: 'root'
 })
 export class Luv2ShopFormService {
 
-  //private countriesUrl = 'http://localhost:8080/api/countries';
-  //private statesUrl = 'http://localhost:8080/api/states';  
+  private countriesUrl = environment.backendApi + '/countries';
+  private statesUrl = environment.backendApi + '/states';
 
-  private countriesUrl = 'https://ecommerce-backend-deploy.herokuapp.com/api/countries';
-  private statesUrl = 'https://ecommerce-backend-deploy.herokuapp.com/api/states';
+  // private countriesUrl = 'https://ecommerce-backend-deploy.herokuapp.com/api/countries';
+  // private statesUrl = 'https://ecommerce-backend-deploy.herokuapp.com/api/states';
 
   constructor(private httpClient: HttpClient) { }
 

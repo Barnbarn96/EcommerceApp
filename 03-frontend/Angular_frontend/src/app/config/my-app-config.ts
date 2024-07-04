@@ -1,9 +1,9 @@
 export default {
 
     oidc: {
-        clientId: '0oa15oemyc9hu7g175d7',
+        clientId: '0oai2dzwta1JeNeoV5d7',
         issuer: 'https://dev-83258750.okta.com/oauth2/default',
-        redirectUri: 'https://barnbarn96.github.io/EcommerceApp/login/callback',
+        redirectUri: 'https://localhost:4200/login/callback',
         scopes: ['openid', 'profile', 'email']
     }
 }
